@@ -38,7 +38,10 @@ I'm constantly expanding my skills, currently diving into UX/UI design principle
 - **Frontend**: Next JS, Vanilla JS, HTML, CSS.
 - **Backend Basics**: Node JS, Express JS (For API integration).
 - **Version Control**: Git, GitHub.
-- **IDEs**: Visual Studio Code, NetBeans.
+- **IDEs**: Visual Studio Code, NetBeans, Jupyter.
+- **Languages**: C, C++, Python, Java, HTML, CSS, JavaScript.
+- **CS Fundamentals**: Data Structure & Algorithms (DSA), OOPs (Object-Oriented Programming).
+- **Databases**: MySQL.
 
 ## 📫 Let's Connect
 
