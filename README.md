@@ -56,3 +56,4 @@ I'm excited to connect with developers and tech enthusiasts alike! Feel free to 
 **LinkedIn - [linkedin.com/in/wajid-daud-tamboli-3217b031a](https://www.linkedin.com/in/wajid-daud-tamboli-3217b031a/)** <br>
 **Gmail - [wajiddaudtamboli123@gmail.com](mailto:wajiddaudtamboli123@gmail.com?subject=Hello&body=Glad%20to%20connect%20with%20you!)** <br>
 **WhatsApp - [+9667033839](https://wa.me/9667033839)** <br>
+**Portfolio - wajiddaudtamboli.github.io/Portfolio-Wajid_Daud_Tamboli<br>
