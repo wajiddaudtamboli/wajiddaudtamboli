@@ -11,6 +11,12 @@
     <a href="https://wa.me/9667033839">
       <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
+    <a href="https://wajiddaudtamboli.github.io/Portfolio-Wajid_Daud_Tamboli/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+  </div>
+</div>
+
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=wajiddaudtamboli&style=flat-round&color=red" alt="Profile Views"/>
