@@ -23,13 +23,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=💻+Full+Stack+Developer+%7C+Frontend+Specialist;🎨+UI%2FUX+Designer+%7C+Technical+Writer;📊+Data+Analyst+%7C+Software+Engineer;🛡️+System+Administrator+%7C+QA+Tester;🌐+Network+Admin+%7C+Database+Expert;🚀+Multi-Domain+Technology+Professional" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 # Hi there 👋, I'm **Wajid Daud Tamboli**
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 Versatile Tech Professional | 💡 Innovation Catalyst | 🎯 Multi-Domain Expert
 
 **B.Tech Computer Science & Engineering Student** specializing in comprehensive digital solutions across **12+ technology domains**. From crafting pixel-perfect user interfaces to managing complex database systems, I deliver excellence across the entire technology stack.
+
+<br clear="right"/>
 
 ---
 
@@ -258,6 +260,8 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
+
+
 
 ---
 
