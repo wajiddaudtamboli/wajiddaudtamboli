@@ -358,7 +358,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/📱%20Quick%20Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9667033839?text=Hi%20Wajid!%20I'm%20a%20recruiter%20interested%20in%20discussing%20job%20opportunities%20with%20you.)
 
-[![Portfolio](https://img.shields.io/badge/🎨%20View%20Work-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wajiddaudtamboli.github.io/Portfolio-Wajid_Daud_Tamboli/)
+[![Portfolio](https://img.shields.io/badge/🎨%20View%20Work-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tech-world-ai.vercel.app/)
 
 </div>
 
