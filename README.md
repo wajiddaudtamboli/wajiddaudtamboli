@@ -70,17 +70,6 @@
 
 ---
 
-### 💻 **Software Engineer**
-**🏗️ Architecture | 🧪 Testing | 📋 Agile**
-- **Languages**: JavaScript, TypeScript, Python, Java, C++
-- **Patterns**: MVC, SOLID principles, Design patterns, Clean Architecture
-- **Testing**: Unit testing, Integration testing, TDD, BDD
-- **Version Control**: Git, GitHub, GitLab, Branching strategies
-- **Methodologies**: Agile, Scrum, Kanban, Code review processes
-- **Data Structures**: Arrays, Trees, Graphs, Hash tables, Algorithms
-
----
-
 ### 🔍 **Software Tester / QA**
 **🧪 Automation | 📝 Manual | 🛡️ Quality Assurance**
 - **Manual Testing**: Test case design, Functional testing, Regression testing
@@ -122,40 +111,7 @@
 - **Documentation**: Technical guides, FAQ creation, Process documentation
 - **Platforms**: Windows, macOS, Linux, Mobile platforms
 - **Languages**: Multi-language support capabilities
-
----
-
-### 🌐 **Network Administrator**
-**🔗 TCP/IP | 🛡️ Security | 📡 Infrastructure**
-- **Networking**: TCP/IP, DNS, DHCP, VPN, VLAN configuration
-- **Hardware**: Routers, Switches, Firewalls, Access points
-- **Security**: Network security, Firewall configuration, VPN setup
-- **Monitoring**: Network performance, Bandwidth management
-- **Protocols**: HTTP/HTTPS, FTP, SSH, SNMP
-- **Tools**: Wireshark, Nmap, Ping, Traceroute, Network scanners
-
----
-
-### 🗄️ **Database Administrator**
-**💾 MySQL | 🍃 MongoDB | 🐘 PostgreSQL**
-- **SQL Databases**: MySQL, PostgreSQL, SQL Server, Oracle (basics)
-- **NoSQL**: MongoDB, Redis, Elasticsearch (basics)
-- **Administration**: Database design, Performance tuning, Backup/Recovery
-- **Security**: User permissions, Data encryption, Access control
-- **Optimization**: Query optimization, Indexing strategies
-- **Monitoring**: Database performance, Storage management
-
----
-
-### ✍️ **Technical Writer**
-**📝 Documentation | 📖 User Guides | 🎯 Technical Communication**
-- **Documentation**: API documentation, User manuals, Technical specifications
-- **Tools**: Markdown, GitBook, Confluence, Notion, MS Office Suite
-- **Content Types**: How-to guides, Troubleshooting docs, Release notes
-- **Audience**: Developer docs, End-user guides, Internal documentation
-- **Standards**: Style guides, Information architecture, Version control
-- **Skills**: Technical communication, Research, Content strategy
-
+- 
 ---
 
 ### 📋 **Analyst**
@@ -298,14 +254,10 @@
 | 💻 **Frontend Developer** | **Mid-Level** | React.js, Next.js, TypeScript |
 | 🎨 **UI/UX Designer** | **Junior-Mid** | Figma, User Research, Prototyping |
 | 🚀 **Full Stack Developer** | **Mid-Level** | MERN Stack, Database Design |
-| 💻 **Software Engineer** | **Mid-Level** | Clean Code, Testing, Algorithms |
 | 🔍 **Software Tester** | **Junior-Mid** | Automation, Manual Testing |
 | 📊 **Data Analyst** | **Junior-Mid** | Python, SQL, Tableau |
 | 🛡️ **System Administrator** | **Junior** | Linux, Windows Server |
 | 📞 **Technical Support** | **Mid-Level** | Troubleshooting, Documentation |
-| 🌐 **Network Administrator** | **Junior** | TCP/IP, Network Security |
-| 🗄️ **Database Administrator** | **Junior** | MySQL, MongoDB, Optimization |
-| ✍️ **Technical Writer** | **Mid-Level** | API Docs, User Guides |
 | 📋 **Business Analyst** | **Junior-Mid** | Requirements, Process Analysis |
 
 </div>
@@ -333,13 +285,12 @@
 ## 💼 **PORTFOLIO HIGHLIGHTS**
 
 ### 🌟 **Featured Projects**
-- 🚀 **E-commerce Platform**: Full-stack MERN application with payment integration
 - 📊 **Data Visualization Dashboard**: Interactive analytics platform with D3.js
 - 🎨 **Design System**: Complete component library with Storybook documentation
 - 🔧 **DevOps Pipeline**: Automated CI/CD with Docker and GitHub Actions
 
 ### 📈 **Impact Metrics**
-- ✅ **50+ Projects**: Completed across different technology stacks
+- ✅ **25+ Projects**: Completed across different technology stacks
 - 🎯 **99% Client Satisfaction**: Consistent delivery of quality solutions  
 - ⚡ **40% Performance Improvement**: Average optimization in applications
 - 🚀 **Zero Downtime Deployments**: Reliable DevOps implementations
